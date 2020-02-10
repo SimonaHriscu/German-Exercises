@@ -1,0 +1,49 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    font-family: 'Baskervville', serif;
+    color: brown;
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 3em;
+}
+
+h1, h2, h3{
+    font-family: 'Alatsi', sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: -0.2em;
+    word-spacing: 7em;
+}
+span{
+    text-decoration: line-through;
+}
+em{
+    text-transform: capitalize;
+}
+strong{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+}

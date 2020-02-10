@@ -1,0 +1,15 @@
+.header{
+    height: 100vh;
+    
+}
+
+.header__img{
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    font-family: 'Girassol', cursive;
+    width: 80vw;
+    margin:auto;
+}

@@ -1,0 +1,49 @@
+*{
+   width: 100%;
+    
+}
+@media only screen and (max-width: 420px){
+    .sidebar{
+        display: inline-block;
+    }
+    .mainContent{
+        width: 75%;
+    }
+}
+
+.header{
+    background-color: purple;  
+    width: 1280px;
+    height: 100px;
+}
+p{
+    color:white;
+    margin-top: 0;
+}
+
+main{
+    width: 1280px;
+}
+.sidebar{
+    background-color: green;
+    width: 25%;
+    height:400px;
+    display: inline-block;
+
+}
+.mainContent{
+    background-color: red;
+    width: 75%;
+    height:400px;
+    display: inline-block;
+    float: right;
+    
+   
+}
+
+.footer{
+    background-color: purple; 
+    width: 1280px;
+    height: 100px;
+    
+}

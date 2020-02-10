@@ -1,0 +1,30 @@
+p{
+    font-size: 32px;
+}
+
+.google
+a:hover{
+    background-color: red;
+}
+.yahoo
+a:hover{
+    background-color: blue;
+}
+.ecosia
+a:hover{
+    background-color: green;
+}
+h4
+a:hover{
+    background-color: grey;
+}
+a:link{
+    background-color: lightgray;
+    text-decoration: none  ;
+}
+a:active{
+    color:yellow
+}
+body{
+    background-color: mediumaquamarine;
+}

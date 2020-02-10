@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+.heading{
+    font-family: 'Lilita One', cursive;
+    text-decoration: underline ;
+    text-transform: uppercase ;
+    text-shadow: 1px 12px 6px rosybrown;
+}
+.note{
+    font-weight: bold ;
+    font-style: italic;
+}
+.todo-item{
+    text-decoration: line-through;
+}

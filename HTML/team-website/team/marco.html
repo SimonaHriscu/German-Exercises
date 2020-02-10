@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="Author" content="Marco Neumann">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=VT323&display=swap" rel="stylesheet"> 
+
+    <title>WebUp | Marco Neumann</title>
+    <style>
+        
+        body {
+            background-color: rgba(0, 0, 0, 0.9);
+            color: green;
+            font-family: 'VT323', monospace;
+        }
+        
+        pre {
+            align-items: center;
+            align-content: center;
+            text-align: center;
+        }
+
+        .mybutton {
+            font-family: 'VT323', monospace;
+            color: green;
+            border: 2px solid green;
+            border-radius: 4px;
+            width: 200px;
+            height: 30px;
+        }
+
+        .mybutton:hover {
+            transform: scale(1.2);
+        }
+
+        .text {
+            padding-top: 3em;
+            width: 300px;
+            height: 300px;
+            text-align: center;
+        }
+
+        .wrapper {
+            display: flex;
+            align-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        #myborder:hover {
+            transform: scale(1.1);
+            filter: grayscale(0);
+        }
+
+        #myborder {
+            filter: grayscale(1);
+            border: 1px solid black;
+            border-radius: 90px;
+            width: 250px;
+            height: 250px;
+            content: url("../img/selfpic.jpg");
+            box-shadow: 0px 0px 50px whitesmoke;
+            transition: all .3s ease-in-out;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="wrapper">
+        <pre class="ascii-logo">
+    /**********************************
+    *__        __   _     _   _       *
+    *\ \      / /__| |__ | | | |_ __  *
+    * \ \ /\ / / _ \ '_ \| | | | '_ \ *
+    *  \ V  V /  __/ |_) | |_| | |_) |*
+    *   \_/\_/ \___|_.__/ \___/| .__/ *
+    *                          |_|    *
+    ***********************************/
+        </pre>
+
+        <div id="myborder">
+        </div>
+
+        <div class="text">
+            <h2 class="profile-name">Marco Neumann</h2>
+            <ul>
+                <li>33 Years Old</li>
+                <li>Smart</li>
+                <li>made in Berlin</li>
+            </ul>
+            <h2>About me</h2>
+            <p>
+                1986 born in Berlin Germany grow up in Wilmersdorf/Charlottenburg over the whole life
+                addicted to sport but now addicted to Web engineering.
+            </p>
+        </div>
+
+        <button class="mybutton"><a href="../index.html">Back to WebUp Mainpage</a></button>
+    </section>
+</body>
+
+</html>

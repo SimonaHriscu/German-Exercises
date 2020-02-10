@@ -1,0 +1,27 @@
+.red {
+    color:blue;
+    font-size: 100px;
+}
+
+#blue {
+    color: blue;
+    font-size: 100px;
+}
+#red{
+    color: blue;
+}
+#title{
+    color: blue;
+}
+.one{
+    background-color: yellow;
+}
+.two{
+    background-color: tomato;
+}
+.three{
+    background-color: violet;
+}
+.yellow{
+    color:yellow;
+}

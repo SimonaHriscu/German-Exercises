@@ -1,0 +1,41 @@
+html{
+    text-align: center;
+    width:25em;
+    
+    
+}
+h2{
+    font-size: 2rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h3{
+    font-size: 1rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.primary-box{
+    background-color:#262424 ;
+    color: white ;
+    padding-bottom: 20px;
+    padding-top:2px;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.inside-box{
+    background-color: #91EEFF;
+    color:grey;
+    
+}
+
+.secondary-box{
+    margin-top: 10px;
+    margin-bottom:40px;
+}
+
+.goldenBox{
+    height:10px;
+    background-color: darkgoldenrod;
+}
