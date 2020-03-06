@@ -9,4 +9,4 @@
 * Give the element with the class of `note` a bold font weight. Make the text appear italic. 
 * Strike through all the elements with the class `todo-item`.
 
-![alt text](/image/reference-image.png "Shopping List Result")
+![alt text](./image/reference-image.png "Shopping List Result")
