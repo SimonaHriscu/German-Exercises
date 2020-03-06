@@ -5,4 +5,4 @@
 * All elements nested in the `main` element should have a different `sans-serif` font. Provide a fallback in the font-stack. 
 * The paragraph element with the class `code` should have a `monospace` font. Provide a fallback in the font-stack. 
 
-![alt-text](/image/reference.png "Reference Image")
+![alt-text](./image/reference.png "Reference Image")
