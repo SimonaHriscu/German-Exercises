@@ -10,4 +10,4 @@
 4.  Use the pseudo classes for all elements, to enhance usability.
 5.  Add some additional styling to your page e.g. background colors.
 
-![alt-text](/image/reference-image.png "Reference Image")
+![alt-text](./image/reference-image.png "Reference Image")
