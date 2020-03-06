@@ -28,7 +28,7 @@
 
 ---
 ### Homepage
-![mockup-image-homepage](/img/homepage.png)
+![mockup-image-homepage](./img/homepage.png)
 
 ### Profile
 ![mockup-image-profile](img/profile.png)
